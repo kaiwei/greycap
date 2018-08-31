@@ -1,6 +1,5 @@
 +++
 date = "31 August 2018"
-publishdate = "31 August 2018"
 description = "First Post"
 title = "Hello World"
 +++
