@@ -1,5 +1,5 @@
 ---
-date: 2018-09-01T21:27:05.454Z
+date: 2018-09-01TT00:00:00Z
 description: First Post
 title: Hello World
 ---
